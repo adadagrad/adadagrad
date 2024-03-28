@@ -8,7 +8,9 @@ We perform additional experiments to supplement and justify our claims in the pa
 
 2. `adadagrad_cnn_mnist_rebuttal_1.png`: Comparing AdaGrad (with constant batch sizes) to AdAdaGrad (i.e., AdaGrad with adaptive batch sizes)
 
-3. `adadagrad_cnn_mnist_rebuttal_2.png`: Comparing AdaSGD (with constant batch sizes) to AdaSGD (i.e., SGD with adaptive batch sizes)
+3. `adadagrad_cnn_mnist_rebuttal_2.png`: Comparing AdaGradNorm (with constant batch sizes) to AdAdaGradNorm (i.e., AdaGradNorm with adaptive batch sizes)
 
-4. `adadagrad_cnn_mnist_rebuttal_2.png`: Comparing AdaSGD and AdAdaGradNorm using only the inner product test and using the augmented inner product test (i.e., when both the inner product test and the orthogonality test are used)
+4. `adadagrad_cnn_mnist_rebuttal_3.png`: Comparing AdaSGD (with constant batch sizes) to AdaSGD (i.e., SGD with adaptive batch sizes)
+
+5. `adadagrad_cnn_mnist_rebuttal_4.png`: Comparing AdaSGD and AdAdaGradNorm using only the inner product test and using the augmented inner product test (i.e., when both the inner product test and the orthogonality test are used)
 
